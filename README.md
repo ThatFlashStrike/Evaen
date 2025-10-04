@@ -1,5 +1,6 @@
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=ThatFlashStrike.ThatFlashStrike)
 <div align="center">
+
+![Visitor Badge](https://vbr.nathanchung.dev/badge?page_id=ThatFlashStrike.ThatFlashStrike)
 
 # 👑𝔎𝔦𝔫𝔤 𝔈𝔳𝔞𝔢𝔫. 👑
 <font size="1"><b> 𝚃𝚑𝚎 𝙼𝚊𝚜𝚝𝚎𝚛 𝚘𝚏 𝚃𝚑𝚒𝚜 𝙲𝚊𝚜𝚝𝚕𝚎.</b></font>
