@@ -1,3 +1,4 @@
+![Visits](https://img.shields.io/badge/Visits-39100-blue)
 <div align="center">
 
 # 👑𝔎𝔦𝔫𝔤 𝔈𝔳𝔞𝔢𝔫. 👑
