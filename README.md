@@ -22,6 +22,3 @@
   <img src="https://lorcanaplayer.com/wp-content/uploads/2025/08/Beast-Gracious-Prince-Enchanted-Lorcana-Player.jpg" width="300" />
   <img src="https://cdn.dreamborn.ink/images/en/cards/007-136" width="300" />
 </p>
-git add visits.txt README.md .github/workflows/update-visits.yml
-git commit -m "Set up visit tracking workflow"
-git push origin main
