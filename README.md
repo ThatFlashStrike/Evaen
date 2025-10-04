@@ -1,4 +1,4 @@
-![Visits](https://img.shields.io/badge/Visits-39100-blue)
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=ThatFlashStrike.ThatFlashStrike)
 <div align="center">
 
 # 👑𝔎𝔦𝔫𝔤 𝔈𝔳𝔞𝔢𝔫. 👑
