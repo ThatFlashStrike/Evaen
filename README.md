@@ -12,7 +12,7 @@
 
   <div align="center">
     <p>Hello, my name is Evaen (Ev for short) and i'm 17 years old, the birthday being on the 20th of November.</p>
-    <p>A proud selfshipper of Twilight Sparkle with my fictional sonas; i'm aromantic and straight, that's why.<p>
+    <p>A proud selfshipper of Twilight Sparkle with my fictional sonas; i'm aromantic and straight.<p>
     <p>I'm an ENFJ 1w2+2w3, in case a person like this doesn't suit your taste.</p>
     <p>I’m pretty chill, others would call it boring.</p>
     <p>Respect means a lot to me.</p>
