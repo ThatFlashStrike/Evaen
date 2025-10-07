@@ -65,7 +65,7 @@
 </details>
 
 <details>
-  <summary><ins>Comics</ins></summary>
+  <summary><ins>Books/Comics</ins></summary>
 
   <div align="center">
     <p>Witchblade | The Darkness | Danger Girl | Beauty and The Beast | 30 Days of Night | Aphrodite IX | Aphrodite V | Apollo IX | Ares IX | Artemis IX | Artifacts | Broken Trinity | Butcher Knight | Castlevania: The Belmont Legacy | Angelus | 5 Days to Die | Think Tank | Cyber Force | Dead Island | Dishonored | IXth Generation | The Magdalena | Metal Gear Solid | Poseidon IX | Purgatori | Tomb Raider | Dragon Age | Van Helsing: From Beneath the Rue Morgue</p>
