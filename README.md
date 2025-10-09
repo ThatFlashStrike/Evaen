@@ -42,7 +42,7 @@
   <summary><ins>Hobbies</ins></summary>
 
   <div align="center">
-    <p>[WORK IN PROGRESS]</p>
+    <p>Computer Technician Hobbyist, Reading old comics, Drawing, Lots of re-reading and re-watching, Character Designing, Basketball, Workout, Meditating, Jogging, Hiking, Cycling, Gaming, Ex-Programmer, Picking fruit, Foodie. Also highly fixated on the colours of blue in a concerning amount 🤣.</p>
   </div>
 </details>
 
