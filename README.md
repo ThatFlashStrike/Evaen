@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.postimg.cc/dV8HssQJ/Kingdomheart-Manga-Beast03-1.jpg" width="350" />
+</p>
+
 <div align="center">
 
 ![Visitor Badge](https://vbr.nathanchung.dev/badge?page_id=ThatFlashStrike.ThatFlashStrike)
