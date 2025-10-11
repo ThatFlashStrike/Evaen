@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/dV8HssQJ/Kingdomheart-Manga-Beast03-1.jpg" width="350" />
+  <img src="https://i.postimg.cc/dV8HssQJ/Kingdomheart-Manga-Beast03-1.jpg" width="420" />
 </p>
 
 <div align="center">
