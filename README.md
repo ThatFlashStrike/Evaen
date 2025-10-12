@@ -37,6 +37,16 @@
 </details>
 <br>
 
+<details>
+  <summary><ins>⚠️ CAUTION ⚠️</ins></summary>
+
+  <div align="center">
+    <p>[WORK IN PROGRESS]</p>
+  </div>
+</details>
+
+<br>
+
 ## INTERESTS
 <details>
   <summary><ins>Hobbies</ins></summary>
