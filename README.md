@@ -21,7 +21,7 @@
     <p>A proud selfshipper of Twilight Sparkle with my fictional sonas; i'm aromantic and straight.<p>
     <p>I'm an ENFJ 1w2+2w3, in case a person like this doesn't suit your taste.</p>
     <p>I’m pretty chill, others would call it boring.</p>
-    <p>I am disabled, i am blind in my left eye.</p>
+    <p>I am blind in my left eye.</p>
     <p>Level Two Autism.<p>
   </div>
 </details>
