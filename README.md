@@ -39,6 +39,7 @@
     <p>Away From Keyboard/Off-tab a lot of the time, this doesn't mean always, as i could be talking to friends in party/whispers or making a skin - sleep emote doesn't always mean i'm busy.<p>
     <p>Don't expect a response out of me all the time, but i will respond when i want to.<p>
     <p>I enjoy hangouts and crowds.<p>
+    <p>I'd appreciate if you don't ask to rolepay with me.<p>
     <p>Copying me and/or my friends, with the knowledge of this action being strongly looked down upon without consent, is an awful action to do, refrain from doing this.</p>
   </div>
 </details>
