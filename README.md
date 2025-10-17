@@ -33,6 +33,12 @@
 
   <div align="center">
     <p>I don't care if you cuddle me, pile me, do whatever you want even if I'm with people — just don't do anything that'll irritate me on purpose.</p>
+    <p>Don't always assume i'll give you attention for wearing a Belle skin, however all of them are great.<p>
+    <p>Covering me is fine if it's for cuddle purposes - outside of that, i'd appreciate if it's not done consistently.<p>
+    <p>I ignore all advertisements in my whispers, especially ones begging for assistance with their build limit, i'm not the guy for this.<p>
+    <p>Away From Keyboard/Off-tab a lot of the time, this doesn't mean always, as i could be talking to friends in party/whispers or making a skin - sleep emote doesn't always mean i'm busy.<p>
+    <p>Don't expect a response out of me all the time, but i will respond when i want to.<p>
+    <p>I enjoy hangouts and crowds.<p>
     <p>Copying me and/or my friends, with the knowledge of this action being strongly looked down upon without consent, is an awful action to do, refrain from doing this.</p>
   </div>
 </details>
