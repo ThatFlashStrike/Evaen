@@ -20,8 +20,9 @@
     <p>Hello, my name is Evaen (Ev for short) and i'm 17 years old, the birthday being on the 20th of November.</p>
     <p>A proud selfshipper of Twilight Sparkle with my fictional sonas; i'm aromantic and straight.<p>
     <p>I'm an ENFJ 1w2+2w3, in case a person like this doesn't suit your taste.</p>
-    <p>I’m pretty chill, others would call it boring.</p>
+    <p>Born and raised in the United Kingdom.</p>
     <p>I am blind in my left eye and have Level Two Autism.</p>
+    <p>Side note: hyperfixated on all shades of blue and is a big part of me. 💙</p>
   </div>
 </details>
 
@@ -50,10 +51,28 @@
   <summary><ins>⚠️ CAUTION ⚠️</ins></summary>
 
   <div align="center">
-    <p>[WORK IN PROGRESS]</p>
+    <p>Realist, Open-minded, straightforward.<p>
+    <p>Often blunt and i don't care about a lot of things.<p>
+    <p>Respect matters a lot to me, not just towards me but towards others as well.<p>
+    <p>Might irritate you, it is not intentional.<p>
+    <p>Often apprehensive with friendships.</p>
+    <p>I am not afraid to tell you i don't like something.</p>
+    <p>Generalised Anxiety Disorder.</p>
+    <p>Manic episodes can happen if lonely for days.</p>
+    <p>Mood swings, this includes being snappy.</p>
+    <p>Laughing is rare for me, don't mistake this as you being unfunny.</p>
+    <p>Late to all trending media, and more forgetful of them than not since i'm not active on social media.</p>
   </div>
 </details>
+<br>
 
+<details>
+<summary><ins>⚠️ Do Not Befriend ⚠️</ins></summary>
+
+<div align="center">
+   <p>[WORK IN PROGRESS]</p>
+</div>
+</details>
 <br>
 
 ## INTERESTS
